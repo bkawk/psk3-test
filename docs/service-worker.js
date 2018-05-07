@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["index.html","a62fa1b4f4ac0d9f00a097164249a9bc"],["manifest.json","1845171d3c4fe9ebe6a48852f4347b34"],["src/my-app.js","3185033f6faa8c1ec5b1d15cfcabc176"],["src/my-view1.js","539186d5444476a6c2af87cf25665c4c"],["src/my-view2.js","6d2713b89ae031cf1ddfd996d48b3429"],["src/my-view3.js","3371169b3ec5bb57b8abaa9ca9ef21ef"],["src/my-view404.js","f26411f76a6bf5bc25e113f4c6e8b3f5"]];
+var precacheConfig = [["index.html","96d6b0a04cbb6aa7330d037d80482fb0"],["manifest.json","1845171d3c4fe9ebe6a48852f4347b34"],["src/my-app.js","8ea3838f9c1f358ce768bab6369fb54a"],["src/my-view1.js","36d915639df70badf92501a25bb8e186"],["src/my-view2.js","4f9200f506d25fe639900dece1a26430"],["src/my-view3.js","3fae3049b5f3f67cc075a4bc4189764b"],["src/my-view404.js","2c4eef2f992387bf5a4470d0589feca4"]];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 

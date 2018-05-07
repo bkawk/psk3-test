@@ -1,7 +1,7 @@
 define(["./my-app.js"], function (_myApp) {
   "use strict";
 
-  var _templateObject_451b2030519611e8bd01b7d5284ceb4f = /*#__PURE__*/ babelHelpers.taggedTemplateLiteral(["\n      <style>\n        :host {\n          display: block;\n\n          padding: 10px 20px;\n        }\n      </style>\n\n      Oops you hit a 404. <a href=\"[[rootPath]]\">Head back to home.</a>\n    "]);
+  var _templateObject_a48c8bf051a811e890540be538ce52d5 = /*#__PURE__*/ babelHelpers.taggedTemplateLiteral(["\n      <style>\n        :host {\n          display: block;\n\n          padding: 10px 20px;\n        }\n      </style>\n\n      Oops you hit a 404. <a href=\"[[rootPath]]\">Head back to home.</a>\n    "]);
 
   /**
    * @license
@@ -25,7 +25,7 @@ define(["./my-app.js"], function (_myApp) {
     babelHelpers.createClass(MyView404, null, [{
       key: "template",
       get: function get() {
-        return (0, _myApp.html)(_templateObject_451b2030519611e8bd01b7d5284ceb4f);
+        return (0, _myApp.html)(_templateObject_a48c8bf051a811e890540be538ce52d5);
       }
     }]);
     return MyView404;

@@ -1,7 +1,7 @@
 define(["./my-app.js"], function (_myApp) {
   "use strict";
 
-  var _templateObject_4519c0a0519611e8bd01b7d5284ceb4f = /*#__PURE__*/ babelHelpers.taggedTemplateLiteral(["\n      <style include=\"shared-styles\">\n        :host {\n          display: block;\n\n          padding: 10px;\n        }\n      </style>\n\n      <div class=\"card\">\n        <div class=\"circle\">3</div>\n        <h1>View Three</h1>\n        <p>Modus commodo minimum eum te, vero utinam assueverit per eu.</p>\n        <p>Ea duis bonorum nec, falli paulo aliquid ei eum.Has at minim mucius aliquam, est id tempor laoreet.Pro saepe pertinax ei, ad pri animal labores suscipiantur.</p>\n      </div>\n    "]);
+  var _templateObject_a483b25051a811e890540be538ce52d5 = /*#__PURE__*/ babelHelpers.taggedTemplateLiteral(["\n      <style include=\"shared-styles\">\n        :host {\n          display: block;\n\n          padding: 10px;\n        }\n      </style>\n\n      <div class=\"card\">\n        <div class=\"circle\">3</div>\n        <h1>View Three</h1>\n        <p>Modus commodo minimum eum te, vero utinam assueverit per eu.</p>\n        <p>Ea duis bonorum nec, falli paulo aliquid ei eum.Has at minim mucius aliquam, est id tempor laoreet.Pro saepe pertinax ei, ad pri animal labores suscipiantur.</p>\n      </div>\n    "]);
 
   /**
    * @license
@@ -25,7 +25,7 @@ define(["./my-app.js"], function (_myApp) {
     babelHelpers.createClass(MyView3, null, [{
       key: "template",
       get: function get() {
-        return (0, _myApp.html)(_templateObject_4519c0a0519611e8bd01b7d5284ceb4f);
+        return (0, _myApp.html)(_templateObject_a483b25051a811e890540be538ce52d5);
       }
     }]);
     return MyView3;
