@@ -6,7 +6,7 @@
   "license": "BSD-3-Clause",
   "repository": "Polymer/polymer-starter-kit",
   "scripts": {
-    "build": "npm run deldocs && polymer build --base-path /psk3-test/ && npm run move && npm run delbuild",
+    "build": "npm run deldocs && polymer build --base-path /psk3-test/ --add-service-worker && npm run move && npm run delbuild",
     "start": "polymer serve",
     "lint": "polymer lint",
     "test": "polymer test",
